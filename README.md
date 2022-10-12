@@ -1,6 +1,6 @@
 # joy_arduino_ros 
 
-Package requires ROSserial to be installed and library to be available in Arduino ide
+Package requires ROSserial to be installed and library to be available in Arduino IDE
 follow http://wiki.ros.org/rosserial_arduino/Tutorials/Arduino%20IDE%20Setup
 
 To use :
